@@ -1,0 +1,33 @@
+# Java / Maven
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs generes par les programmes
+logs/
+*.log
+
+# Dossier de travail des MP3 (ne pas versionner les medias)
+mp3-inbox/
+storage/
+
+# Node / React (a venir)
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
+
+prompt.txt
